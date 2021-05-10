@@ -1,0 +1,11 @@
+C:\Users\sofal\OneDrive\Desktop\id3\obj\Debug\netcoreapp3.1\id3.csprojAssemblyReference.cache
+C:\Users\sofal\OneDrive\Desktop\id3\obj\Debug\netcoreapp3.1\id3.AssemblyInfoInputs.cache
+C:\Users\sofal\OneDrive\Desktop\id3\obj\Debug\netcoreapp3.1\id3.AssemblyInfo.cs
+C:\Users\sofal\OneDrive\Desktop\id3\bin\Debug\netcoreapp3.1\id3.exe
+C:\Users\sofal\OneDrive\Desktop\id3\bin\Debug\netcoreapp3.1\id3.deps.json
+C:\Users\sofal\OneDrive\Desktop\id3\bin\Debug\netcoreapp3.1\id3.runtimeconfig.json
+C:\Users\sofal\OneDrive\Desktop\id3\bin\Debug\netcoreapp3.1\id3.runtimeconfig.dev.json
+C:\Users\sofal\OneDrive\Desktop\id3\bin\Debug\netcoreapp3.1\id3.dll
+C:\Users\sofal\OneDrive\Desktop\id3\bin\Debug\netcoreapp3.1\id3.pdb
+C:\Users\sofal\OneDrive\Desktop\id3\obj\Debug\netcoreapp3.1\id3.dll
+C:\Users\sofal\OneDrive\Desktop\id3\obj\Debug\netcoreapp3.1\id3.pdb

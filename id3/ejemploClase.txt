@@ -1,0 +1,9 @@
+Cielo;Barómetro;Viento;Lluvia
+limpio;subiendo;norte;no
+nublado;subiendo;sur;si
+nublado;estable;norte;si
+limpio;bajando;norte;no
+nublado;bajando;norte;si
+nublado;subiendo;norte;si
+nublado;bajando;sur;no
+limpio;subiendo;sur;no

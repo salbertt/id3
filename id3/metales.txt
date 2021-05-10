@@ -1,0 +1,7 @@
+Density;tvs; ts; tme; elongation; metal or alloy
+high;low;medium;high;high;ammealed copper
+high;high;high;medium;high;brass
+high;high;high;medium;medium;bronze
+low;low;low;medium;medium;aluminium100
+low;medium;medium;low;low;magnesium
+low;medium;medium;medium;medium;aluminium54
